@@ -9,16 +9,16 @@ Olá! Meu nome é Pedro Henrique, tenho 16 anos. Atualmente(2023) faço curso t�
   <li>Projetos baixo nível</li>
   <li>Projetos de cybersegurança</li>
 </ul>
-<br><h2>Skills</h2>
+<h2>Skills</h2>
 Possuo conhecimento em áreas como:
 <ul>
   <li>Redes</li>
   <li>Banco de Dados</li>
   <li>Programação(Back-end)</li>
   <li>Engenharia reversa</li>
-  <li>Exatas(Matemática/física/química)</li>
+  <li>Exatas(Matemática/física/química)</li>´
 </ul>
-<br><h2>Linguagens:</h2><br>
+<h2>Linguagens:</h2>
 <ul>
   <li>Línguas:</li>
       <ul>
@@ -42,13 +42,13 @@ Possuo conhecimento em áreas como:
         <li>E diversas outras linguagens com conhecimento básico...</li>
       </ul>
 </ul>
-<br><h2>Projetos:</h2><br>
+<h2>Projetos:</h2>
 Atualmente estou trabalhando/procurando trabalhar em coisas como:
 <ul>
   <li>Sistema Operacional</li>
   <li>Inteligência artificial</li>
 </ul>
-<br><h2>Curiosidades:</h2><br>
+<h2>Curiosidades:</h2>
 Atualmente estudo no IFES(Intituto Federal do Espírito Santo) no campus Colatina. Sou atendido pelo NAPNE(Núcleo de atendimento de pessoas com necessidades específicas) por altas habilidades em exatas e informática. Sou o primeiro aluno do ensino médio a fazer parte da equipe de futebol 2D.<br>
 Com 12 anos estudei cálculo I e II com o livro do James Stewart(que abrange cáculo I, II, III e IV), a partir desse conhecimento estudei diversos livros de física superior, como a série do Halliday e atualmente estou lendo o Landau. Também tenho leituras de áreas mais específicas da matemática e física como EDP e funções complexas, algumas em andamento e algumas finalizadas.<br>
 Sou totalmente aficionado por exatas e programação e sempre com vontade de aprender mais.
