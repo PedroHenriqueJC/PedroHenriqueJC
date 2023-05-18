@@ -50,5 +50,5 @@ Atualmente estou trabalhando/procurando trabalhar em coisas como:
 </ul>
 <br><h2>Curiosidades:</h2><br>
 Atualmente estudo no IFES(Intituto Federal do Espírito Santo) no campus Colatina. Sou atendido pelo NAPNE(Núcleo de atendimento de pessoas com necessidades específicas) por altas habilidades em exatas e informática. Sou o primeiro aluno do ensino médio a fazer parte da equipe de futebol 2D.<br>
-Com 12 anos estudei cáculo I e II do James Stewart(que abrange cáculo I, II, III e IV), a partir desse conhecimento estudei diversos livros de física superior, como a série do Halliday e atualmente estou lendo o Landau. Também tenho leituras de áreas mais específicas da matemática e física como EDP e funções complexas, algumas em andamento e algumas finalizadas.<br>
+Com 12 anos estudei cálculo I e II com o livro do James Stewart(que abrange cáculo I, II, III e IV), a partir desse conhecimento estudei diversos livros de física superior, como a série do Halliday e atualmente estou lendo o Landau. Também tenho leituras de áreas mais específicas da matemática e física como EDP e funções complexas, algumas em andamento e algumas finalizadas.<br>
 Sou totalmente aficionado por exatas e programação e sempre com vontade de aprender mais.
