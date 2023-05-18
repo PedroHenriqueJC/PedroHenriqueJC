@@ -15,6 +15,7 @@ Possuo conhecimento em áreas como:
   <li>Redes</li>
   <li>Banco de Dados</li>
   <li>Programação(Back-end)</li>
+  <li>Engenharia reversa</li>
   <li>Exatas(Matemática/física/química)</li>
 </ul>
 <br><h2>Linguagens:</h2><br>
