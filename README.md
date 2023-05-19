@@ -55,7 +55,7 @@ Atualmente estudo no IFES(Intituto Federal do Espírito Santo) no campus Colatin
 Com 12 anos estudei cálculo I e II com o livro do James Stewart(que abrange cáculo I, II, III e IV), a partir desse conhecimento estudei diversos livros de física superior, como a série do Halliday e atualmente estou lendo o Landau. Também tenho leituras de áreas mais específicas da matemática e física como EDP e funções complexas, algumas em andamento e algumas finalizadas.
 Sou totalmente aficionado por exatas e programação e sempre com vontade de aprender mais.<br>
 Jogo CTF(Capure the Flag) então terá diversos links e coisas relacionadas
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJC)](https://github.com/anuraghazra/github-readme-stats)
 
 
