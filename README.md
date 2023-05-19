@@ -42,9 +42,9 @@ Possuo conhecimento em áreas como:
         <li>Shell script-básico/intermediário</li>
         <li>Bash script-básico</li>
         <li>E diversas outras linguagens com conhecimento básico...</li>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJC)](https://github.com/anuraghazra/github-readme-stats)
-      </ul>
+       </ul>
 </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJC)](https://github.com/anuraghazra/github-readme-stats)
 <h2>:hammer:Projetos::hammer:</h2>
 Atualmente estou trabalhando/procurando trabalhar em coisas como:
 <ul>
