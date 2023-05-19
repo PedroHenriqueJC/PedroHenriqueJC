@@ -1,5 +1,5 @@
 <h1>Bem Vindo ao meu GitHub</h1>
-<h2>Quem sou eu?</h2>
+<h2>Quem sou eu?:leaves:</h2>
 Olá! Meu nome é Pedro Henrique, tenho 16 anos. Atualmente(2023) faço curso técnico em informática no IFES Colatina, porém estudo programação e cybersegurança desde os 9 anos. Atualmente jogo capture the flag e programo diariamente.
 <h2>Oque você verá aqui?</h2>
 <ul>
