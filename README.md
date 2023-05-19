@@ -42,6 +42,7 @@ Possuo conhecimento em áreas como:
         <li>Shell script-básico/intermediário</li>
         <li>Bash script-básico</li>
         <li>E diversas outras linguagens com conhecimento básico...</li>
+        <li>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJC)](https://github.com/anuraghazra/github-readme-stats)</li>
       </ul>
 </ul>
 <h2>:hammer:Projetos::hammer:</h2>
@@ -56,4 +57,4 @@ Com 12 anos estudei cálculo I e II com o livro do James Stewart(que abrange cá
 Sou totalmente aficionado por exatas e programação e sempre com vontade de aprender mais.<br>
 Jogo CTF(Capure the Flag) então terá diversos links e coisas relacionadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueJC)](https://github.com/anuraghazra/github-readme-stats)
+
