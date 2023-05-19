@@ -1,7 +1,7 @@
 <h1>Bem Vindo ao meu GitHub</h1>
-<h2>Quem sou eu?:leaves:</h2>
+<h2>:leaves:Quem sou eu?:leaves:</h2>
 Olá! Meu nome é Pedro Henrique, tenho 16 anos. Atualmente(2023) faço curso técnico em informática no IFES Colatina, porém estudo programação e cybersegurança desde os 9 anos. Atualmente jogo capture the flag e programo diariamente.
-<h2>Oque você verá aqui?</h2>
+<h2>:eyes:Oque você verá aqui?:eyes:</h2>
 <ul>
   <li>Trabalhos escolares</li>
   <li>Resumos e códigos de livro</li>
@@ -10,7 +10,7 @@ Olá! Meu nome é Pedro Henrique, tenho 16 anos. Atualmente(2023) faço curso t�
   <li>Projetos de cybersegurança</li>
   <li>Repositórios ou links relacionados a capture the flag</li>
 </ul>
-<h2>Skills</h2>
+<h2>:diamonds:Skills:diamonds:</h2>
 Possuo conhecimento em áreas como:
 <ul>
   <li>Redes</li>
@@ -20,7 +20,7 @@ Possuo conhecimento em áreas como:
   <li>Cybersegurança</li>
   <li>Exatas(Matemática/física/química)</li>
 </ul>
-<h2>Linguagens:</h2>
+<h2>:ear:Linguagens::ear:</h2>
 <ul>
   <li>Línguas:</li>
       <ul>
