@@ -20,9 +20,9 @@ Possuo conhecimento em áreas como:
   <li>Cybersegurança</li>
   <li>Exatas(Matemática/física/química)</li>
 </ul>
-<h2>:ear:Linguagens::ear:</h2>
+<h2>:school:Linguagens::school:</h2>
 <ul>
-  <li>Línguas:</li>
+  <li>:tongue:Línguas::tongue:</li>
       <ul>
         <li>Português-lingua materna</li>
         <li>Inglês-intermediário</li>
@@ -30,7 +30,7 @@ Possuo conhecimento em áreas como:
         <li>Alemão-iniciante</li>
         <li>Russo-iniciante</li>
       </ul>
-  <li>Programação:</li>
+  <li>:space_invader:Programação::space_invader:</li>
       <ul>
         <li>C-avançado</li>
         <li>C++-intermediário</li>
@@ -44,13 +44,13 @@ Possuo conhecimento em áreas como:
         <li>E diversas outras linguagens com conhecimento básico...</li>
       </ul>
 </ul>
-<h2>Projetos:</h2>
+<h2>:hammer:Projetos::hammer:</h2>
 Atualmente estou trabalhando/procurando trabalhar em coisas como:
 <ul>
   <li>Sistema Operacional</li>
   <li>Inteligência artificial</li>
 </ul>
-<h2>Curiosidades:</h2>
+<h2>:lock:Curiosidades::lock:</h2>
 Atualmente estudo no IFES(Intituto Federal do Espírito Santo) no campus Colatina. Sou atendido pelo NAPNE(Núcleo de atendimento de pessoas com necessidades específicas) por altas habilidades em exatas e informática. Sou o primeiro aluno do ensino médio a fazer parte da equipe de futebol 2D.
 Com 12 anos estudei cálculo I e II com o livro do James Stewart(que abrange cáculo I, II, III e IV), a partir desse conhecimento estudei diversos livros de física superior, como a série do Halliday e atualmente estou lendo o Landau. Também tenho leituras de áreas mais específicas da matemática e física como EDP e funções complexas, algumas em andamento e algumas finalizadas.
 Sou totalmente aficionado por exatas e programação e sempre com vontade de aprender mais.<br>
