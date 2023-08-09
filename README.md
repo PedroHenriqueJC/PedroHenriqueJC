@@ -22,7 +22,7 @@ Possuo conhecimento em áreas como:
 </ul>
 <h2>:school:Linguagens::school:</h2>
 <ul>
-  <li>:tongue:Línguas::tongue:</li>
+  <li>:tongue:Idiomas::tongue:</li>
       <ul>
         <li>Português-lingua materna</li>
         <li>Inglês-intermediário</li>
