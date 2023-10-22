@@ -38,7 +38,8 @@ Possuo conhecimento em áreas como:
         <li>Assembly-aprendendo</li>
         <li>Python-avançado</li>
         <li>Java-intermediário</li>
-        <li>PHP-básico</li>
+        <li>PHP-intermediário</li>
+        <li>Go-básico</li>
         <li>Shell script-básico/intermediário</li>
         <li>Bash script-básico</li>
         <li>E diversas outras linguagens com conhecimento básico...</li>
